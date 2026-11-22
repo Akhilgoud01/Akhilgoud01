@@ -40,6 +40,9 @@
 
 </div>
 
+<p align="center"><img src="https://raw.githubusercontent.com/Akhilgoud01/Akhilgoud01/main/assets/h-activity.svg" width="100%" alt="activity"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Akhilgoud01/Akhilgoud01/output/snake-neon.svg" width="100%" alt="contribution snake"></p>
+
 <p align="center"><img src="https://raw.githubusercontent.com/Akhilgoud01/Akhilgoud01/main/assets/h-connect.svg" width="100%" alt="connect"></p>
 
 <p align="center">
